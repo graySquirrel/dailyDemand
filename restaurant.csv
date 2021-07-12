@@ -1,0 +1,6 @@
+name,target,reorderPoint,inventory,id,type
+hauler,0,0,0,1,hauler
+1,200,4,0,2,restaurant
+2,200,4,0,3,restaurant
+3,200,4,0,4,restaurant
+washer,0,0,0,5,washer

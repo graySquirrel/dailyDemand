@@ -1,0 +1,6 @@
+name,target,reorderPoint,inventory,id,type
+hauler,0,0,0,1,hauler
+alladins,20,4,0,2,restaurant
+alladinsRoch,20,4,0,3,restaurant
+owl house,20,4,0,4,restaurant
+washer,0,0,0,5,washer

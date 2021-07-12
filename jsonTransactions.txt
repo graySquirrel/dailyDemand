@@ -1,0 +1,1568 @@
+[
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13",
+    "SKUId": 5,
+    "NumItems": 120,
+    "TransactionType": "RicochetToWasher",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13",
+    "SKUId": 5,
+    "NumItems": 20,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 2
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13",
+    "SKUId": 5,
+    "NumItems": 20,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 3
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13",
+    "SKUId": 5,
+    "NumItems": 20,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 4
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 18:17:28",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 23:54:07",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 17:24:26",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 3,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 18:58:31",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 22:25:45",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 6,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 20:58:46",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 7,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-13 23:32:34",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-14 23:05:00",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-14 20:36:09",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-15 21:24:45",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-16 21:20:34",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-18 09:06:29",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 1,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-18 09:13:34",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 2,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-18 09:14:34",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 3,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-18 09:15:15",
+    "SKUId": 5,
+    "NumItems": 14,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-18 19:54:57",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-18 17:23:46",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 6,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-19 09:03:01",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 4,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-19 09:11:11",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 5,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-19 09:20:20",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 6,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-19 09:29:06",
+    "SKUId": 5,
+    "NumItems": 14,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-19 22:45:46",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-19 19:27:11",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 09:09:35",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 7,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 09:10:09",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 8,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 09:12:32",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 21:48:50",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 21:50:33",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 20:47:41",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 3,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 22:51:22",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-20 19:28:51",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-21 09:31:54",
+    "SKUId": 5,
+    "NumItems": 20,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 3
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-21 17:50:25",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-21 21:21:40",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 7,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-21 20:50:16",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-22 09:17:17",
+    "SKUId": 5,
+    "NumItems": 20,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 4
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-23 18:46:58",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 6,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-23 17:39:54",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-24 09:46:30",
+    "SKUId": 5,
+    "NumItems": 18,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 2
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-25 09:08:11",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 1,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-25 09:14:03",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 2,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-25 09:14:38",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 3,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-25 09:15:31",
+    "SKUId": 5,
+    "NumItems": 11,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-25 17:13:03",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 09:03:07",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 4,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 09:12:04",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 5,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 09:14:12",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 6,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 09:16:05",
+    "SKUId": 5,
+    "NumItems": 14,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 23:18:42",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 19:45:30",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 22:00:06",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-26 20:22:07",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 6,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-27 09:09:10",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 7,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-27 09:10:30",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 8,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-27 09:12:47",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-27 10:01:39",
+    "SKUId": 5,
+    "NumItems": 17,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 4
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-27 18:11:28",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-27 17:21:36",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 3,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-28 22:07:22",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 7,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-29 21:07:03",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-29 17:57:22",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 6,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-29 23:46:27",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-05-30 19:37:02",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-01 09:00:28",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 1,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-01 09:08:39",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 2,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-01 09:13:51",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 3,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-01 09:18:34",
+    "SKUId": 5,
+    "NumItems": 11,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-01 18:11:09",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-02 09:07:11",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 4,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-02 09:07:32",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 5,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-02 09:14:47",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 6,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-02 09:16:22",
+    "SKUId": 5,
+    "NumItems": 15,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-02 19:38:20",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-02 23:17:58",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 3,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-03 09:09:29",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 7,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-03 09:11:58",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 8,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-03 09:19:41",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-03 19:52:02",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-03 22:49:44",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 6,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-03 17:33:10",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-04 19:52:24",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 7,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-05 20:34:42",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-06 17:05:39",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-06 22:05:39",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-07 09:01:59",
+    "SKUId": 5,
+    "NumItems": 17,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 2
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-07 22:48:23",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-07 22:09:13",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-08 09:01:13",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 1,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-08 09:07:06",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 2,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-08 09:08:40",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 3,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-08 09:10:33",
+    "SKUId": 5,
+    "NumItems": 11,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-08 18:15:43",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 2,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-09 09:02:06",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 4,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-09 09:10:33",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 5,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-09 09:15:54",
+    "SKUId": 5,
+    "NumItems": 6,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 6,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-09 09:20:28",
+    "SKUId": 5,
+    "NumItems": 14,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-09 21:28:55",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 3,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-09 21:51:26",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 4,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 09:07:14",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 7,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 09:16:11",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Customer",
+    "To": "Vendor 1",
+    "CustomerId": 8,
+    "Vendor1Id": 1,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 09:24:41",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 1,
+    "Vendor2Id": 5
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 09:33:06",
+    "SKUId": 5,
+    "NumItems": 18,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 4
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 20:50:44",
+    "SKUId": 5,
+    "NumItems": 5,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 1,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 17:22:50",
+    "SKUId": 5,
+    "NumItems": 3,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 5,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-10 20:03:33",
+    "SKUId": 5,
+    "NumItems": 1,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 7,
+    "Vendor1Id": 4,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-11 09:23:57",
+    "SKUId": 5,
+    "NumItems": 19,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Vendor 2",
+    "CustomerId": "",
+    "Vendor1Id": 5,
+    "Vendor2Id": 3
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-11 19:18:30",
+    "SKUId": 5,
+    "NumItems": 2,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 3,
+    "Vendor1Id": 2,
+    "Vendor2Id": ""
+}
+
+,
+{
+    "CreatedById": "ignore",
+    "CreatedDate": "2021-06-11 17:06:26",
+    "SKUId": 5,
+    "NumItems": 4,
+    "TransactionType": "Other",
+    "From": "Vendor 1",
+    "To": "Customer",
+    "CustomerId": 8,
+    "Vendor1Id": 3,
+    "Vendor2Id": ""
+}
+
+]
