@@ -7,7 +7,7 @@ library(mc2d)
 
 source("dailyDemandFuncs.R")
 
-setwd("/Users/fritzebner/Documents/R/dailyDemand/")
+#setwd("/Users/fritzebner/Documents/R/dailyDemand/")
 set.seed(21)
 
 daysPerWeekCustomersTakeout <- 1
